@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Allied.SnowFlakeDemoApp.Api/bin/Debug/net8.0
+/Allied.SnowFlakeDemoApp.Api/obj
+/Allied.SnowFlakeDemoApp.Domain/bin/Debug/net8.0
+/Allied.SnowFlakeDemoApp.Domain/obj

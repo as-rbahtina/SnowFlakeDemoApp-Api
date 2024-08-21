@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Allied.SnowFlakeDemoApp.Api", "Allied.SnowFlakeDemoApp.Api\Allied.SnowFlakeDemoApp.Api.csproj", "{67E54A39-37EF-4453-9305-1DFB30F56CAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Allied.SnowFlakeDemoApp.Domain", "Allied.SnowFlakeDemoApp.Domain\Allied.SnowFlakeDemoApp.Domain.csproj", "{7DC16811-F9B6-48AD-8B36-9CB9434DF15B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67E54A39-37EF-4453-9305-1DFB30F56CAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67E54A39-37EF-4453-9305-1DFB30F56CAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67E54A39-37EF-4453-9305-1DFB30F56CAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67E54A39-37EF-4453-9305-1DFB30F56CAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DC16811-F9B6-48AD-8B36-9CB9434DF15B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DC16811-F9B6-48AD-8B36-9CB9434DF15B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DC16811-F9B6-48AD-8B36-9CB9434DF15B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DC16811-F9B6-48AD-8B36-9CB9434DF15B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDB4EE86-1A81-46EE-B10F-64E09762353A}
+	EndGlobalSection
+EndGlobal
